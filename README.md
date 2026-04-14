@@ -76,5 +76,6 @@ IPL dataset (2008–2016) including:
 
 ## ✨ Author
 
-**Parjanya V**  
-Aspiring Data Analyst | Tableau | Python | SQL
+**Parjanya Vasisht**  
+www.linkedin.com/in/parjanya-vasisht-08a06b31b
+ Data Analyst | Tableau | Python | SQL
