@@ -69,7 +69,8 @@ IPL dataset (2008–2016) including:
 
 ## 🔗 Dashboard
 
-👉 *[Add your Tableau Public link here]*
+<img width="1276" height="829" alt="image" src="https://github.com/user-attachments/assets/0fc42f54-25f7-4f85-be37-10b1841589af" />
+
 
 ---
 
