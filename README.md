@@ -49,6 +49,11 @@ The dashboard includes:
 > Refer to [`INSIGHTS.md`](./INSIGHTS.md) for detailed insights.
 
 ---
+## 📖 Project Story
+
+This project was initially approached as a narrative-driven analysis to simulate real-world decision-making in IPL auctions.
+
+👉 Read full story here: [STORY.md](./STORY.md)
 
 ## 📌 Business Impact
 
